@@ -1,0 +1,561 @@
+Sepsis
+React-oth vasc dev/graft
+Hyp kid NOS w cr kid V
+Atrial fibrillation
+CHF NOS
+Aortic valve disorder
+Mitral valve disorder
+Staphylcocc septicem NEC
+Tachycardia NOS
+Abn react-renal dialysis
+Inf mcrg rstn pncllins
+Dvrtcli colon w/o hmrhg
+Anemia-other chronic dis
+DMII wo cmp nt st uncntr
+Long-term use of insulin
+Adv eff anticoagulants
+Crnry athrscl natve vssl
+Gout NOS
+Tobacco use disorder
+Acute necrosis of liver
+Hpt B acte wo cm wo dlta
+Chrnc hpt C wo hpat coma
+Opioid dependence-contin
+Thrombocytopenia NOS
+Hyperosmolality
+Atrial fibrillation
+Mitral valve disorder
+Septicemia NOS
+Subendo infarct, initial
+Cardiogenic shock
+Pneumonia, organism NOS
+Oth lymp unsp xtrndl org
+Hyperlipidemia NEC/NOS
+DMII wo cmp nt st uncntr
+Pneumonia, organism NOS
+Hyperlipidemia NEC/NOS
+Fx surg nck humerus-clos
+Emphysema NEC
+Fx facial bone NEC-close
+Fx malar/maxillary-close
+Hematoma complic proc
+Iatrogen pulm emb/infarc
+Ac posthemorrhag anemia
+Fall from slipping NEC
+Abn react-surg proc NEC
+Hx-circulatory dis NEC
+Hypertension NOS
+Septicemia NOS
+Hypertension NOS
+Acute respiratry failure
+Acute pancreatitis
+Alcoh dep NEC/NOS-unspec
+Blood in stool
+Ac kidny fail, tubr necr
+Hepatic encephalopathy
+Shock w/o trauma NEC
+Severe sepsis
+Ac alcoholic hepatitis
+Asthma NOS
+Intracerebral hemorrhage
+Malignant hypertension
+Urin tract infection NOS
+Hyposmolality
+Hx of breast malignancy
+Idio periph neurpthy NOS
+Anemia NOS
+Atrial fibrillation
+CHF NOS
+Mitral valve disorder
+DMII wo cmp nt st uncntr
+Crnry athrscl natve vssl
+Hypertension NOS
+Tricuspid valve disease
+Other heart block
+Chronic kidney dis NOS
+Mental disor NEC oth dis
+Rectal prolapse
+Abnrml coagultion prfile
+Hyp kid NOS w cr kid V
+Atrial fibrillation
+CHF NOS
+Thrombocytopenia NOS
+Severe sepsis
+Urin tract infection NOS
+Streptococcal septicemia
+Comp-ren dialys dev/grft
+Cholangitis
+Choledochlith NOS w obst
+End stage renal disease
+Septic shock
+Other pulmonary insuff
+Pleural effusion NOS
+Malfunc oth device/graft
+Cerv spondyl w myelopath
+Personal history of fall
+Unc behav neo bone
+Delirium d/t other cond
+Status autm crd dfbrltr
+Hx-prostatic malignancy
+CHF NOS
+Thrombocytopenia NOS
+Ac posthemorrhag anemia
+Fx lower humerus NEC-cl
+Secondary malig neo bone
+Food/vomit pneumonitis
+Diastolc hrt failure NOS
+Acute kidney failure NOS
+Atrial fibrillation
+DMII wo cmp nt st uncntr
+Hypertension NOS
+Acute kidney failure NOS
+Tox multnod goit no cris
+Trachea & bronch dis NEC
+Hyperpotassemia
+Fall NOS
+Pure hypercholesterolem
+Depressive disorder NEC
+Late eff CV dis-aphasia
+Peptic ulcer NOS
+Gout NOS
+Ocl crtd art wo infrct
+Old myocardial infarct
+Hyperosmolality
+Septicemia NOS
+Severe sepsis
+Septic shock
+Food/vomit pneumonitis
+Acute kidney failure NOS
+Acidosis
+Esophageal reflux
+Alzheimer's disease
+Dementia w/o behav dist
+Polymyalgia rheumatica
+Hypothyroidism NOS
+Sepsis
+Atrial fibrillation
+CHF NOS
+Thrombocytopenia NOS
+Hypertension NOS
+Mental disor NEC oth dis
+Abnrml coagultion prfile
+Streptococcal septicemia
+Diastolc hrt failure NOS
+Acute kidney failure NOS
+React-oth int ortho dev
+Pyogen arthritis-pelvis
+Alkalosis
+Comp-internal joint pros
+Failure to thrive-adult
+Venous insufficiency NOS
+Abn react-artif implant
+Accident in place NEC
+Osteoporosis NOS
+Streptococcus group b
+CHF NOS
+Aortic valve disorder
+Crnry athrscl natve vssl
+Emphysema NEC
+Acute respiratry failure
+Esophageal reflux
+Hyp ht dis NOS w ht fail
+Bacteremia
+Iron defic anemia NOS
+Atrial fibrillation
+CHF NOS
+Mitral valve disorder
+Crnry athrscl natve vssl
+Subendo infarct, initial
+Surg compl-heart
+Parox ventric tachycard
+Prim pulm hypertension
+Periph vascular dis NOS
+CHF NOS
+Anemia-other chronic dis
+Thrombocytopenia NOS
+Pneumonia, organism NOS
+Acute respiratry failure
+Obs chr bronc w(ac) exac
+Int inf clstrdium dfcile
+Ac diastolic hrt failure
+Atrial fibrillation
+Crnry athrscl natve vssl
+Hypertension NOS
+Sec mal neo brain/spine
+Cellulitis of leg
+Second malig neo liver
+Secondary malig neo lung
+Renal & ureteral dis NOS
+Anemia in neoplastic dis
+Atrial fibrillation
+CHF NOS
+DMII wo cmp nt st uncntr
+Crnry athrscl natve vssl
+Hyperlipidemia NEC/NOS
+Hypertension NOS
+Severe sepsis
+Intracerebral hemorrhage
+Urin tract infection NOS
+Hyposmolality
+Anemia NOS
+Septic shock
+Acute kidney failure NOS
+Hypothyroidism NOS
+Int inf clstrdium dfcile
+Anaerobic septicemia
+Lower extremity embolism
+Acq coagul factor defic
+Colstmy/enteros comp NEC
+Stricture of artery
+Subendo infarct, subseq
+Mycoses NEC & NOS
+Urinostomy status NEC
+Hx-uterus malignancy NEC
+Hx of irradiation
+History of tobacco use
+Status-post ptca
+Sec mal neo brain/spine
+Hx-uterus malignancy NEC
+Convulsions NEC
+CHF NOS
+Septicemia NOS
+Ac kidny fail, tubr necr
+Severe sepsis
+Urin tract infection NOS
+Hyposmolality
+Septic shock
+Ac diastolic hrt failure
+Thrombocytopenia NOS
+Septicemia NOS
+Hypertension NOS
+Acute respiratry failure
+Severe sepsis
+Chronic kidney dis NOS
+Septic shock
+Acute kidney failure NOS
+Cirrhosis of liver NOS
+Hpt C w/o hepat coma NOS
+Chr blood loss anemia
+Bleed esoph var oth dis
+Portal hypertension
+Portal vein thrombosis
+Hepatorenal syndrome
+CHF NOS
+Acute necrosis of liver
+Septicemia NOS
+Subendo infarct, initial
+Cardiogenic shock
+Acute respiratry failure
+Shock w/o trauma NEC
+Acute kidney failure NOS
+Pneumonia e coli
+Atrial fibrillation
+Cl skl base fx-deep coma
+Traum hemothorax-closed
+W/crft fall NEC-pers NEC
+Gout NOS
+Hypertension NOS
+Chronic kidney dis NOS
+Pure hypercholesterolem
+Esophageal reflux
+Osteoporosis NOS
+Mal neo stomach cardia
+Sec mal neo GI NEC
+Vasc comp med care NEC
+Mal neo lymph intra-abd
+Rheumatoid arthritis
+Ac posthemorrhag anemia
+Liver laceration, major
+Concussion-deep coma
+Traumatic shock
+Cardiac arrest
+Oth coll stnd obj-mocycl
+GI injury NEC-closed
+Oth acq limb deformity
+CHF NOS
+DMII wo cmp nt st uncntr
+Acute respiratry failure
+Food/vomit pneumonitis
+Acidosis
+Epilepsy NOS w intr epil
+Coma
+Intellect disability NOS
+Atrial fibrillation
+Pneumonia, organism NOS
+Ac posthemorrhag anemia
+Tricuspid valve disease
+Acute kidney failure NOS
+Angio intes w hmrhg
+Rheumatic heart failure
+Mitral insuf/aort stenos
+Chr airway obstruct NEC
+Cardiac dysrhythmias NEC
+Long-term use anticoagul
+Septicemia NOS
+Pneumonia, organism NOS
+Acute respiratry failure
+Severe sepsis
+Hyposmolality
+Secondary malig neo bone
+Acute kidney failure NOS
+Acidosis
+Secondary malig neo lung
+Anemia in neoplastic dis
+Second malig neo pleura
+Mal neo lower lobe lung
+Protein-cal malnutr NOS
+Diarrhea
+Adv eff antineoplastic
+React-oth vasc dev/graft
+CHF NOS
+Anemia-other chronic dis
+Urin tract infection NOS
+Hyposmolality
+Depressive disorder NEC
+Acidosis
+Esophageal reflux
+Bacteremia
+Amyloidosis NEC
+Nutritional marasmus
+Nephrotic syn in oth dis
+Hypovolemia
+Hematemesis
+Inf mcr rst ot drg nt ml
+Dis plas protein met NOS
+Iatrogenc hypotnsion NEC
+Dis plas protein met NEC
+Enterococcus group d
+Other esophagitis
+Bacteroides fragilis
+Sepsis
+CHF NOS
+Inf mcrg rstn pncllins
+Anemia-other chronic dis
+Hyperosmolality
+Septicemia NOS
+Subendo infarct, initial
+Oth lymp unsp xtrndl org
+Hyperlipidemia NEC/NOS
+Hypertension NOS
+Acute respiratry failure
+Blood in stool
+Severe sepsis
+Urin tract infection NOS
+Anemia NOS
+Septic shock
+Other pulmonary insuff
+Food/vomit pneumonitis
+Acute kidney failure NOS
+Depressive disorder NEC
+Acidosis
+Periph vascular dis NOS
+Status-post ptca
+Cardiac dysrhythmias NEC
+Aortocoronary bypass
+Cor ath unsp vsl ntv/gft
+Prsnl hst tuberculosis
+Bronchitis NOS
+Mth sus Stph aur els/NOS
+Paralysis agitans
+Vascular dementia,uncomp
+Cerebral atherosclerosis
+Ath ext autologs bps gft
+Dvrtclo colon w/o hmrhg
+Vasc dementia w delirium
+Gastrostomy status
+Hx-lymphatic malign NEC
+Hypertension NOS
+Intracerebral hemorrhage
+Food/vomit pneumonitis
+Aortocoronary bypass
+Cor ath unsp vsl ntv/gft
+Ac posthemorrhag anemia
+Poison-antipsychotic NEC
+Recur depr psych-severe
+Pois-cns muscle depress
+Pois-benzodiazepine tran
+Poison-psychotropic agt
+Poison-drug/medicin NEC
+Aortic valve disorder
+Crnry athrscl natve vssl
+Subendo infarct, initial
+Hypertension NOS
+Shock w/o trauma NEC
+Acute kidney failure NOS
+Periph vascular dis NOS
+Protein-cal malnutr NOS
+Gastrointest hemorr NOS
+Dehydration
+CHF NOS
+DMII wo cmp nt st uncntr
+Hyperosmolality
+Septicemia NOS
+Pneumonia, organism NOS
+Severe sepsis
+Tricuspid valve disease
+Mental disor NEC oth dis
+Food/vomit pneumonitis
+Acute kidney failure NOS
+Hypothyroidism NOS
+Int inf clstrdium dfcile
+Benign neo pituitary
+Panhypopituitarism
+Pressure ulcer, ankle
+Parox ventric tachycard
+Opn skl fx NEC-deep coma
+Mv collision NOS-driver
+Accid on street/highway
+Open wound of face NEC
+Second malig neo liver
+Secondary malig neo lung
+Mal neo bronch/lung NEC
+Second malig neo adrenal
+Second malig neo kidney
+Sec mal neo peritoneum
+Secondary malig neo NEC
+Tachycardia NOS
+Hyposmolality
+Abnrml coagultion prfile
+Pleural effusion NOS
+Acidosis
+Int inf clstrdium dfcile
+Chr blood loss anemia
+Gastrointest hemorr NOS
+Ch myl leuk wo achv rmsn
+Pulmonary collapse
+Pressure ulcer, low back
+Spleen disease NEC
+Hypertension NOS
+Asthma NOS
+Urin tract infection NOS
+Hyposmolality
+Pure hypercholesterolem
+Osteoporosis NOS
+Convulsions NEC
+Adrenal hypofunction NEC
+DMII wo cmp nt st uncntr
+Hypertension NOS
+Alcoh dep NEC/NOS-unspec
+Asthma NOS
+Herpetic encephalitis
+Atrial fibrillation
+CHF NOS
+Aortic valve disorder
+DMII wo cmp nt st uncntr
+Acute respiratry failure
+Acute kidney failure NOS
+Chr airway obstruct NEC
+Sinoatrial node dysfunct
+Sleep apnea NOS
+Acute respiratry failure
+Esophageal reflux
+Hypothyroidism NOS
+Paralysis agitans
+Dvrtclo colon w/o hmrhg
+Ventricular fibrillation
+Anoxic brain damage
+Persistent vegtv state
+Bipolor I current NOS
+CHF NOS
+Mitral valve disorder
+DMII wo cmp nt st uncntr
+Emphysema NEC
+Anemia NOS
+Renal & ureteral dis NOS
+Intermed coronary synd
+Drug-induced delirium
+Adv eff benzodiaz tranq
+React-oth vasc dev/graft
+Thrombocytopenia NOS
+Pneumonia, organism NOS
+Acute respiratry failure
+Acidosis
+Bacteremia
+Glossitis
+Mult mye w/o achv rmson
+Thrush
+Trnspl status-bne marrow
+Atrial fibrillation
+Hypertension NOS
+Acute pancreatitis
+Acute kidney failure NOS
+Old myocardial infarct
+Bacteremia
+Long-term use anticoagul
+Acute cholecystitis
+Perforation gallbladder
+Toxic encephalopathy
+Chr duoden ulcer w hem
+Chr stomach ulc w hem
+Acute necrosis of liver
+Septicemia NOS
+Hx-circulatory dis NEC
+Acute respiratry failure
+Severe sepsis
+Acute kidney failure NOS
+Acidosis
+Grand mal status
+Defibrination syndrome
+Cerebral edema
+Metabolic encephalopathy
+Encountr palliative care
+Adv eff hydantoin deriv
+Sepsis
+Hyp kid NOS w cr kid V
+Atrial fibrillation
+CHF NOS
+DMII wo cmp nt st uncntr
+Pneumonia, organism NOS
+Ac posthemorrhag anemia
+Fall from slipping NEC
+Abn react-surg proc NEC
+Ac kidny fail, tubr necr
+Urin tract infection NOS
+Chronic kidney dis NOS
+Acute kidney failure NOS
+Hyperpotassemia
+Hypothyroidism NOS
+Osteoporosis NOS
+Intertrochanteric fx-cl
+Chr diastolic hrt fail
+Hemorrhage complic proc
+Abdom aortic aneurysm
+Hy kid NOS w cr kid I-IV
+Acute & chronc resp fail
+Ac on chr diast hrt fail
+DMII unspf uncntrld
+Meth susc Staph aur sept
+Pressure ulcer, buttock
+Chr pulmon heart dis NEC
+Obstructive sleep apnea
+Obesity NOS
+Aftrcre traumatic fx hip
+Hx-ven thrombosis/embols
+Constipation NOS
+CHF NOS
+Acute necrosis of liver
+Ac kidny fail, tubr necr
+Acq coagul factor defic
+Spleen disease NEC
+Acute cholecystitis
+Chr pulmon heart dis NEC
+Compl liver transplant
+Alcohol cirrhosis liver
+Hpt B chrn wo cm wo dlta
+Iatrogenic pneumothorax
+Hemoperitoneum
+Obstruction of bile duct
+Pneumonia, organism NOS
+Cardiac dysrhythmias NEC
+C1-c4 fx-cl/com cord les
+Fx femur shaft-closed
+Cl skul base fx-brf coma
+Seroma complicting proc
+Quadrplg c1-c4, complete
+Oth coll stndng obj-psgr
+Vascular myelopathies
+Open wound of scalp
+Nasal bone fx-closed
+Candidias urogenital NEC
+Nystagmus NOS
+DMII wo cmp nt st uncntr
